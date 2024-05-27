@@ -30,3 +30,7 @@ EXPOSE 8080
 
 # Set the entrypoint command to run the Spring Boot application
 ENTRYPOINT ["java", "-jar", "app/spring-petclinic-2.1.0.war"]
+
+
+
+
